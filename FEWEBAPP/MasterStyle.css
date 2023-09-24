@@ -1,0 +1,63 @@
+﻿body {
+    margin: 0px;
+    border: none;
+}
+.topdiv {
+    background-color: dimgray;
+    width: 100%;
+    height: 50px;
+    padding: 5px;
+}
+header {
+    width: 15%;
+}
+#header1 img {
+    float: left;
+    max-width: 120px;
+    max-height: 40px;
+}
+#header2 {
+    float: right;
+    max-width: 40px;
+    max-height: 40px;
+}
+nav {
+    float: left;
+    width: 70%;
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+}
+#MainMenu ul {
+    list-style-type: none;
+    text-align: center;
+}
+#MainMenu li {
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#MainMenu a {
+    color: white;
+    text-decoration: none;
+}
+.mainContent img{
+    width:1520px;
+    height: 476px;
+    padding: 5px;
+}
+#newRegister {
+    background-color: lightgray;
+    width: 50%;
+    height: 200px;
+    padding: 5px;
+    vertical-align: middle;
+    text-align: center;
+}
+footer {
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    padding: 5px;
+}
